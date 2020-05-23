@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Dropbox/Quest/Quest/Quest/Content/Shaders/FXDepthMask.fx</SourceFile>
+  <SourceTime>2020-04-02T16:08:18+02:00</SourceTime>
+  <DestFile>C:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/Shaders/FXDepthMask.xnb</DestFile>
+  <DestTime>2020-05-23T15:14:15.3539156+02:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

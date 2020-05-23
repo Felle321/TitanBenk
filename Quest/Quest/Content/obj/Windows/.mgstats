@@ -1,0 +1,18 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Dropbox/Quest/Quest/Quest/Content/Ability/Icons.png","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/Ability/Icons.xnb","TextureProcessor","Texture2DContent",2514,32853,0,1389584
+"D:/Dropbox/Quest/Quest/Quest/Content/debug.spritefont","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/debug.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0,2779109
+"D:/Dropbox/Quest/Quest/Quest/Content/EffectSprites/ExplosionLights.png","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/EffectSprites/ExplosionLights.xnb","TextureProcessor","Texture2DContent",24180,524373,0,0229929
+"D:/Dropbox/Quest/Quest/Quest/Content/Explosion.png","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/Explosion.xnb","TextureProcessor","Texture2DContent",16613,131157,0,1289585
+"D:/Dropbox/Quest/Quest/Quest/Content/Fader.png","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/Fader.xnb","TextureProcessor","Texture2DContent",12852,262229,0,0379886
+"D:/Dropbox/Quest/Quest/Quest/Content/GUI/elementSheet.png","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/GUI/elementSheet.xnb","TextureProcessor","Texture2DContent",1940,98389,0,0049986
+"D:/Dropbox/Quest/Quest/Quest/Content/GUI/hotBarBG.png","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/GUI/hotBarBG.xnb","TextureProcessor","Texture2DContent",5551,518229,0,018994
+"D:/Dropbox/Quest/Quest/Quest/Content/GUI/HUDProgressBarSheet.png","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/GUI/HUDProgressBarSheet.xnb","TextureProcessor","Texture2DContent",211800,1769557,0,104966
+"D:/Dropbox/Quest/Quest/Quest/Content/MaterialEdges.png","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/MaterialEdges.xnb","TextureProcessor","Texture2DContent",3259,1109,0,0369884
+"D:/Dropbox/Quest/Quest/Quest/Content/Materials.png","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/Materials.xnb","TextureProcessor","Texture2DContent",5005,4181,0,0449846
+"D:/Dropbox/Quest/Quest/Quest/Content/Particles/SmokeParticle.png","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/Particles/SmokeParticle.xnb","TextureProcessor","Texture2DContent",4151,4181,0,0029985
+"D:/Dropbox/Quest/Quest/Quest/Content/pixel.png","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/pixel.xnb","TextureProcessor","Texture2DContent",119,89,0,0019976
+"D:/Dropbox/Quest/Quest/Quest/Content/Projectile/BouncingBall.png","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/Projectile/BouncingBall.xnb","TextureProcessor","Texture2DContent",3469,4181,0,0389866
+"D:/Dropbox/Quest/Quest/Quest/Content/Projectile/Fireball.png","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/Projectile/Fireball.xnb","TextureProcessor","Texture2DContent",13449,131157,0,0249918
+"D:/Dropbox/Quest/Quest/Quest/Content/Shaders/FXApplyShadowsToLight.fx","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/Shaders/FXApplyShadowsToLight.xnb","EffectProcessor","CompiledEffectContent",1649,2133,0,3298953
+"D:/Dropbox/Quest/Quest/Quest/Content/Shaders/FXDepthMask.fx","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/Shaders/FXDepthMask.xnb","EffectProcessor","CompiledEffectContent",702,850,0,1589489
+"D:/Dropbox/Quest/Quest/Quest/Content/Tree.png","D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/Tree.xnb","TextureProcessor","Texture2DContent",4717,15445,0,0219926

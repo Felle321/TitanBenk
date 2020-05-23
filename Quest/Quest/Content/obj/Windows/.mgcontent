@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/Ability/Icons.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/debug.spritefont</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/EffectSprites/ExplosionLights.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/Explosion.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/Fader.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/GUI/elementSheet.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/GUI/hotBarBG.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/GUI/HUDProgressBarSheet.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/MaterialEdges.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/Materials.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/Particles/SmokeParticle.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/pixel.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/Projectile/BouncingBall.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/Projectile/Fireball.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/Shaders/FXApplyShadowsToLight.fx</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/Shaders/FXDepthMask.fx</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/Tree.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/Items/IconSheet.png</File>
+    <File>C:/Dropbox/Quest/Quest/Quest/Content/RigLimbSheets/TestSheet.png</File>
+  </SourceFiles>
+</SourceFileCollection>

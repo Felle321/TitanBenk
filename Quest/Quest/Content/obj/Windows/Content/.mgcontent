@@ -4,26 +4,40 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/Ability/Icons.png</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/debug.spritefont</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/EffectSprites/ExplosionLights.png</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/Explosion.png</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/Fader.png</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/GUI/elementSheet.png</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/GUI/hotBarBG.png</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/GUI/HUDProgressBarSheet.png</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/MaterialEdges.png</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/Materials.png</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/Particles/SmokeParticle.png</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/pixel.png</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/Projectile/BouncingBall.png</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/Projectile/Fireball.png</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/Shaders/FXApplyShadowsToLight.fx</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/Shaders/FXDepthMask.fx</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/Tree.png</File>
-    <File>D:/Dropbox/Quest/Quest/Quest/Content/Items/IconSheet.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/Ability/Icons.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/debug.spritefont</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/EffectSprites/ExplosionLights.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/Explosion.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/Fader.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/GUI/elementSheet.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/GUI/hotBarBG.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/GUI/HUDProgressBarSheet.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/Items/IconSheet.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/MaterialEdges.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/Materials.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/Particles/SmokeParticle.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/pixel.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/Projectile/BouncingBall.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/Projectile/Fireball.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/RigLimbSheets/ChestSheet.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/RigLimbSheets/HeadSheet.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/RigLimbSheets/LowerArmSheet.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/RigLimbSheets/LowerLegSheet.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/RigLimbSheets/TestSheet.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/RigLimbSheets/UpperArmSheet.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/RigLimbSheets/UpperLegSheet.png</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/Shaders/FXApplyShadowsToLight.fx</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/Shaders/FXDepthMask.fx</File>
+    <File>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/Tree.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

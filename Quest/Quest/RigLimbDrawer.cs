@@ -26,6 +26,12 @@ namespace Quest
         static void LoadSheets(GraphicsDevice graphics, ContentManager content)
         {
             LoadSheet("TestSheet", content);
+            LoadSheet("HeadSheet", content);
+            LoadSheet("ChestSheet", content);
+            LoadSheet("LowerArmSheet", content);
+            LoadSheet("UpperArmSheet", content);
+            LoadSheet("LowerLegSheet", content);
+            LoadSheet("UpperLegSheet", content);
         }
 
         static void LoadSheet(string name, ContentManager content)
@@ -36,6 +42,12 @@ namespace Quest
         static void InitializeLimbTextures()
         {
             limbTextures.Add("TestSheet", new LimbTexture("TestSheet", Point.Zero, new Point(64, 16), 16, new Vector2(8, 8), new Vector2(56, 8), false));
+            limbTextures.Add("HeadSheet", new LimbTexture("HeadSheet", Point.Zero, new Point(22, 26), 8, new Vector2(11, 25), new Vector2(11, 20), false));
+            limbTextures.Add("ChestSheet", new LimbTexture("ChestSheet", Point.Zero, new Point(30, 54), 8, new Vector2(15, 45), new Vector2(15, 8), false));
+            limbTextures.Add("LowerArmSheet", new LimbTexture("LowerArmSheet", Point.Zero, new Point(42, 16), 8, new Vector2(8, 8), new Vector2(36, 8), false));
+            limbTextures.Add("UpperArmSheet", new LimbTexture("UpperArmSheet", Point.Zero, new Point(36, 16), 8, new Vector2(8, 8), new Vector2(32, 8), false));
+            limbTextures.Add("LowerLegSheet", new LimbTexture("LowerLegSheet", Point.Zero, new Point(30, 36), 8, new Vector2(15, 6), new Vector2(15, 34), false));
+            limbTextures.Add("UpperLegSheet", new LimbTexture("UpperLegSheet", Point.Zero, new Point(20, 42), 8, new Vector2(10, 9), new Vector2(10, 37), false));
         }
         #endregion
 

@@ -210,7 +210,42 @@ namespace Quest
         public void AddLimb(RigLimb limb)
         {
             limbCollection.Add(limb.name, limb);
-            limbDrawerCollection.Add(limb.name, new RigLimbDrawer("TestSheet"));
+            switch (limb.name)
+            {
+                case ("Head"):
+                    limbDrawerCollection.Add(limb.name, new RigLimbDrawer("HeadSheet"));
+                    break;
+                case ("Neck"):
+                    limbDrawerCollection.Add(limb.name, new RigLimbDrawer("ChestSheet"));
+                    break;
+                case ("UpperRightLeg"):
+                    limbDrawerCollection.Add(limb.name, new RigLimbDrawer("UpperLegSheet"));
+                    break;
+                case ("UpperLeftLeg"):
+                    limbDrawerCollection.Add(limb.name, new RigLimbDrawer("UpperLegSheet"));
+                    break;
+                case ("LowerRightLeg"):
+                    limbDrawerCollection.Add(limb.name, new RigLimbDrawer("LowerLegSheet"));
+                    break;
+                case ("LowerLeftLeg"):
+                    limbDrawerCollection.Add(limb.name, new RigLimbDrawer("LowerLegSheet"));
+                    break;
+                case ("UpperRightArm"):
+                    limbDrawerCollection.Add(limb.name, new RigLimbDrawer("UpperArmSheet"));
+                    break;
+                case ("UpperLeftArm"):
+                    limbDrawerCollection.Add(limb.name, new RigLimbDrawer("UpperArmSheet"));
+                    break;
+                case ("LowerRightArm"):
+                    limbDrawerCollection.Add(limb.name, new RigLimbDrawer("LowerArmSheet"));
+                    break;
+                case ("LowerLeftArm"):
+                    limbDrawerCollection.Add(limb.name, new RigLimbDrawer("LowerArmSheet"));
+                    break;
+                default:
+                    limbDrawerCollection.Add(limb.name, new RigLimbDrawer("TestSheet"));
+                    break;
+            }
 
             if (limb.parent == "Rig")
                 limbs.Add(limb.name);

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/Dropbox/Quest/Quest/Quest/Content/Fader.png</SourceFile>
-  <SourceTime>2020-03-29T20:59:46.0106188+02:00</SourceTime>
-  <DestFile>D:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/Content/Fader.xnb</DestFile>
-  <DestTime>2020-05-13T01:44:42.1325181+02:00</DestTime>
+  <SourceFile>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/Fader.png</SourceFile>
+  <SourceTime>2020-05-24T13:19:18.9002704+02:00</SourceTime>
+  <DestFile>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/bin/Windows/Content/Fader.xnb</DestFile>
+  <DestTime>2020-05-24T21:55:22.2953591+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

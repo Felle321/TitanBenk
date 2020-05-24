@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Dropbox/Quest/Quest/Quest/Content/Ability/Icons.png</SourceFile>
-  <SourceTime>2020-05-14T19:10:18.1540865+02:00</SourceTime>
-  <DestFile>C:/Dropbox/Quest/Quest/Quest/Content/bin/Windows/Ability/Icons.xnb</DestFile>
-  <DestTime>2020-05-23T15:14:10.122721+02:00</DestTime>
+  <SourceFile>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/Ability/Icons.png</SourceFile>
+  <SourceTime>2020-05-24T13:19:18.8951214+02:00</SourceTime>
+  <DestFile>C:/Users/förnamn.efternamn/Documents/GitHub/TitanBenk/Quest/Quest/Content/bin/Windows/Ability/Icons.xnb</DestFile>
+  <DestTime>2020-05-24T21:56:25.1243781+02:00</DestTime>
   <Importer>TextureImporter</Importer>
-  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
-  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
   <Parameters>
     <Key>ColorKeyColor</Key>
     <Value>255,0,255,255</Value>

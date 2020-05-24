@@ -25,7 +25,7 @@ namespace Quest
         public static List<EffectObject> effects = new List<EffectObject>();
         public static Terrain terrain = new Terrain();
 
-        public static bool rigDrawTextures = false;
+        public static bool rigDrawTextures = true;
         public static string selectedLimb = "Neck";
 
         public static Camera camera = new Camera(Vector2.Zero);
